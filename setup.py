@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Harsh Vardhan",
     author_email="vardhan.harsh4041@gmail.com",
-    description="A small example package",
+    description="A simple SQLite wrapper built for personal use.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/4041RebL/sqlite-wrapper",

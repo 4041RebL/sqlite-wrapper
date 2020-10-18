@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="reblite",
-    version="0.0.1",
+    version="1.1.0",
     author="Harsh Vardhan",
     author_email="vardhan.harsh4041@gmail.com",
     description="A simple SQLite wrapper built for personal use.",
